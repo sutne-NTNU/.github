@@ -1,12 +1,12 @@
 # NTNU Courses 🎓
 
-This organization contains all of my (Sivert Utne's) repositories related to all education at Norwegian University of Science and Technology. This includes subjects part of my Bachelor and Master.
+This organization contains all of my (Sivert Utne's) repositories related to all my education at Norwegian University of Science and Technology. This includes courses from both my Bachelor and my Master.
 
 I would reccomend having a look at the pinned repositories if you want to have a look, as these are the most complete and documented ones. Especially the older subjects are not as easy on the eyes, mostly in norwegian, and often lack content and documentation/images etc. I will however try to update old subjects and fill in gaps when i find the time and energy to do so.
 
-# Sorted list of all my subjects from newest to oldest
+# Sorted list of all my courses from newest to oldest
 
-> Subjects not linking to a repository didn't contain any work necessary to have on GitHub, if the link doesn't work, the repositroy is temporarily private.
+> Courses not linking to a repository did not contain any work necessary to have on GitHub, if the link doesn't work, the repositroy is temporarily private.
 
 ## Courses as Part of my Master's Degree
 - 2nd year:
