@@ -7,7 +7,7 @@ I would reccomend having a look at the pinned repositories if you want to have a
 <details>
   
   <summary>
-    <h2> ▸ Sorted list of all my courses from newest to oldest</h2>
+    <h2> Sorted list of all my courses from newest to oldest</h2>
   </summary>
   
   > Courses not linking to a repository did not contain any work necessary to have on GitHub, if the link doesn't work, the repositroy is temporarily private.
